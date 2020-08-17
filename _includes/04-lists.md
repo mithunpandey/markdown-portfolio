@@ -7,3 +7,7 @@
 - item 2
 * item 3
 * item 4
+
+# adding a emoji
+:heart:
+:palm_tree:
